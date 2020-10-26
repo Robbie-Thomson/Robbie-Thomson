@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Robbie!
+
+I am a final year Computer Science Bsc Undergradute at The University of Glasgow. I love learning about new technologies and have a particulat interest in HCI. I am currently working on my final year project which concerns the Social Acceptability of Novel Interaction Techniques. To eplore this area I am developing an Android App that will take make use of Device Motion Gestures. I also have experience in Java, Python, and other programming languages.
+
+#### You can find me on [LinkedIn](https://www.linkedin.com/in/robert-thomson-757a43167/)
 
 <!--
 **Robbie-Thomson/Robbie-Thomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
